@@ -1,0 +1,28 @@
+.perfil{
+    display: flex;
+}
+
+.imagen{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 30%;
+    text-align: center;
+}
+
+.imagen h2{
+    margin-top: 5%;
+}
+
+img{
+    object-fit: none;
+    height:100%;
+    border-radius: 100%;
+    border: 5px solid white;
+    box-shadow: 10px 5px 5px black
+}
+
+.texto {
+    margin-top: 20px;
+    
+}
